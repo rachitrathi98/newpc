@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World my name is rachit");
+            Console.WriteLine("None");
         }
     }
 }
